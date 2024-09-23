@@ -1,0 +1,155 @@
+<!-- Source URL: https://tgaadi-web.tech/Tata-Play/play.php?id=1010 -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>𝗧𝗮𝘁𝗮 𝗣𝗹𝗮𝘆 𝗣𝗹𝗮𝘆𝗲𝗿</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="shortcut icon" href="">
+    <link rel="stylesheet" href="https://cdn.plyr.io/3.6.2/plyr.css" />
+    <script src="https://cdn.plyr.io/3.6.3/plyr.js"></script>
+    <script src="https://content.jwplatform.com/libraries/IDzF9Zmk.js"></script>
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            font-family: Poppins, sans-serif;
+            background: black;
+            color: white;
+        }
+
+        #jwplayerDiv {
+            position: relative;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: calc(100% - 120px); /* Adjust height to leave space for channel info and Telegram section */
+        }
+
+        #channelInfo {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 70px;
+            background: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+            color: #fff;
+            display: flex;
+            align-items: center;
+            padding: 10px;
+            box-sizing: border-box;
+            z-index: 1;
+        }
+
+        #channelInfo img {
+            height: 40px;
+            margin-right: 10px;
+        }
+
+        #channelInfo .channelName {
+            font-size: 18px;
+            font-weight: bold;
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);
+        }
+
+        #telegramInfo {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 50px;
+            background: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+            color: #fff;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 10px;
+            box-sizing: border-box;
+            z-index: 1;
+        }
+
+        #telegramInfo img {
+            height: 30px;
+            margin-right: 10px;
+        }
+
+        #telegramInfo .telegramName {
+            font-size: 16px;
+            font-weight: bold;
+        }
+
+        #infoBox {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 80%;
+            max-width: 800px;
+            padding: 20px;
+            background: black;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+            text-align: center;
+            z-index: 2;
+        }
+
+        #infoBox img {
+            height: 80px;
+            margin-bottom: 10px;
+        }
+
+        #infoBox .title {
+            font-size: 24px;
+            font-weight: bold;
+            margin: 10px 0;
+        }
+
+        #infoBox .description {
+            font-size: 16px;
+          }
+          
+          #infoBox .Channel Logo {
+            background: black;
+          }
+    </style>
+</head>
+<body>
+
+
+<div id="channelInfo">
+    <img src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BH24_Thumbnail-v3/BH24_Thumbnail.png" alt="Channel Logo">
+    <div class="channelName">Bharat 24</div>
+</div>
+
+<div id="infoBox">
+    <img src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BH24_Thumbnail-v3/BH24_Thumbnail.png" background= "black" alt="Channel Logo">
+    <div class="title" style="color: white">Bharat 24</div>
+    <div class="description" style="color: white" >@𝐓𝐆_𝐀𝐀𝐃𝐈</div>
+</div>
+
+<div id="jwplayerDiv"></div>
+
+<a href="https://t.me/tataplayonline" target="_blank">
+    <div id="telegramInfo">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" alt="Telegram">
+        <div class="telegramName">𝗪𝗢𝗥𝗟𝗗 𝗜𝗣𝗧𝗩 𝗠𝗔𝗖 𝗫𝗦𝗧𝗥𝗘𝗔𝗠 𝗖𝗢𝗗𝗘𝗦</div>
+    </div>
+</a>
+
+<script>
+    jwplayer.key = 'Khpp2dHxlBJHC8MCmLnBuV2jK/DwDnJMniwF6EO9HC/riJ712ZmbHg=='; // Include your JW Player key
+    jwplayer("jwplayerDiv").setup({
+    	stretching: 'exactfit',
+        file: "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1836/output/master.mpd",
+        drm: {
+            clearkey: {
+                key: '788c37d6b3fe293178d1acc63beb787d',
+                keyId: 'eb089e8e568e510faa54fb0a92eaf3e3'
+            }
+        }
+    });
+</script>
+</body>
+</html>
