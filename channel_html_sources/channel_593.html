@@ -117,4 +117,39 @@
 </head>
 <body>
 
-Error decoding JSON data from URL
+
+<div id="channelInfo">
+    <img src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73187-l8ou8wo8-v1/imageContent-73187-l8ou8wo8-m4.png" alt="Channel Logo">
+    <div class="channelName">Swatantra TV</div>
+</div>
+
+<div id="infoBox">
+    <img src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73187-l8ou8wo8-v1/imageContent-73187-l8ou8wo8-m4.png" background= "black" alt="Channel Logo">
+    <div class="title" style="color: white">Swatantra TV</div>
+    <div class="description" style="color: white" >@𝐓𝐆_𝐀𝐀𝐃𝐈</div>
+</div>
+
+<div id="jwplayerDiv"></div>
+
+<a href="https://t.me/tataplayonline" target="_blank">
+    <div id="telegramInfo">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" alt="Telegram">
+        <div class="telegramName">𝗪𝗢𝗥𝗟𝗗 𝗜𝗣𝗧𝗩 𝗠𝗔𝗖 𝗫𝗦𝗧𝗥𝗘𝗔𝗠 𝗖𝗢𝗗𝗘𝗦</div>
+    </div>
+</a>
+
+<script>
+    jwplayer.key = 'Khpp2dHxlBJHC8MCmLnBuV2jK/DwDnJMniwF6EO9HC/riJ712ZmbHg=='; // Include your JW Player key
+    jwplayer("jwplayerDiv").setup({
+    	stretching: 'exactfit',
+        file: "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1849/output/master.mpd",
+        drm: {
+            clearkey: {
+                key: 'd40eb471ccb9f6ca531de2d0a45d95bb',
+                keyId: '6cf99d0e6b9d5d989b7ea679449d06e3'
+            }
+        }
+    });
+</script>
+</body>
+</html>
