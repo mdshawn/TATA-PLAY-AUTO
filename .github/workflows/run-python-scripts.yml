@@ -55,19 +55,8 @@ jobs:
         git commit -m 'Add output files'
         git push
       env:
-        GITHUB_TOKEN: ${{ secrets.- name: Commit and push changes
-  run: |
-    git config --global user.name 'Mujahidul Islam'
-    git config --global user.email 'mdshawn0898@gmail.com'
-    git add .
-    git commit -m 'Add output files'
-    git push
-  env:
-    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
- }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Remove lock file
       if: success()
       run: rm script.lock
-
-      
