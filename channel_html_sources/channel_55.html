@@ -117,4 +117,39 @@
 </head>
 <body>
 
-Error decoding JSON data from URL
+
+<div id="channelInfo">
+    <img src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25721-jia4i70o-v2/imageContent-25721-jia4i70o-m3.PNG" alt="Channel Logo">
+    <div class="channelName">Tata Play English in Hindi</div>
+</div>
+
+<div id="infoBox">
+    <img src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25721-jia4i70o-v2/imageContent-25721-jia4i70o-m3.PNG" background= "black" alt="Channel Logo">
+    <div class="title" style="color: white">Tata Play English in Hindi</div>
+    <div class="description" style="color: white" >@𝐓𝐆_𝐀𝐀𝐃𝐈</div>
+</div>
+
+<div id="jwplayerDiv"></div>
+
+<a href="https://t.me/tataplayonline" target="_blank">
+    <div id="telegramInfo">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" alt="Telegram">
+        <div class="telegramName">𝗪𝗢𝗥𝗟𝗗 𝗜𝗣𝗧𝗩 𝗠𝗔𝗖 𝗫𝗦𝗧𝗥𝗘𝗔𝗠 𝗖𝗢𝗗𝗘𝗦</div>
+    </div>
+</a>
+
+<script>
+    jwplayer.key = 'Khpp2dHxlBJHC8MCmLnBuV2jK/DwDnJMniwF6EO9HC/riJ712ZmbHg=='; // Include your JW Player key
+    jwplayer("jwplayerDiv").setup({
+    	stretching: 'exactfit',
+        file: "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_396/output/master.mpd",
+        drm: {
+            clearkey: {
+                key: '3d858f101b447d2628fc80d4d11f108e',
+                keyId: 'e1f5f9555c5b5f49ac7fdf5b83782d7b'
+            }
+        }
+    });
+</script>
+</body>
+</html>
