@@ -2,7 +2,7 @@ name: Run Python Scripts
 
 on:
   schedule:
-    - cron: "*/3 * * * *"  # Runs every 3 minutes
+    - cron: "*/10 * * * *"  # Runs every 10 minutes
   push:
     branches:
       - main  # Trigger on push to the main branch
@@ -46,6 +46,16 @@ jobs:
 
     - name: Run Step4.py
       run: python Step4.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'Mujahidul Islam'
+        git config --global user.email 'mdshawn0898@gmail.com'
+        git add .
+        git commit -m 'Add output files'
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.AUTH_TATAPLAY_TOKEN }}
 
     - name: Remove lock file
       if: success()
