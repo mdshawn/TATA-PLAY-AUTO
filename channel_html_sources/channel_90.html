@@ -117,4 +117,39 @@
 </head>
 <body>
 
-Error decoding JSON data from URL
+
+<div id="channelInfo">
+    <img src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24724-jgvwokqw-v1/imageContent-24724-jgvwokqw-m1.png" alt="Channel Logo">
+    <div class="channelName">Discovery Kids</div>
+</div>
+
+<div id="infoBox">
+    <img src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24724-jgvwokqw-v1/imageContent-24724-jgvwokqw-m1.png" background= "black" alt="Channel Logo">
+    <div class="title" style="color: white">Discovery Kids</div>
+    <div class="description" style="color: white" >@𝐓𝐆_𝐀𝐀𝐃𝐈</div>
+</div>
+
+<div id="jwplayerDiv"></div>
+
+<a href="https://t.me/tataplayonline" target="_blank">
+    <div id="telegramInfo">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" alt="Telegram">
+        <div class="telegramName">𝗪𝗢𝗥𝗟𝗗 𝗜𝗣𝗧𝗩 𝗠𝗔𝗖 𝗫𝗦𝗧𝗥𝗘𝗔𝗠 𝗖𝗢𝗗𝗘𝗦</div>
+    </div>
+</a>
+
+<script>
+    jwplayer.key = 'Khpp2dHxlBJHC8MCmLnBuV2jK/DwDnJMniwF6EO9HC/riJ712ZmbHg=='; // Include your JW Player key
+    jwplayer("jwplayerDiv").setup({
+    	stretching: 'exactfit',
+        file: "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_130/output/master.mpd",
+        drm: {
+            clearkey: {
+                key: '3ec5d909d7eb1d2805265a98226834cd',
+                keyId: 'e8dfcad7de3c5f64a3ded7585fb6d3ce'
+            }
+        }
+    });
+</script>
+</body>
+</html>
