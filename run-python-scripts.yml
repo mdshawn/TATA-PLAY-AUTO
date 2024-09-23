@@ -1,0 +1,52 @@
+name: Run Python Scripts
+
+on:
+  schedule:
+    - cron: "*/3 * * * *"  # Runs every 3 minutes
+  push:
+    branches:
+      - main  # Trigger on push to the main branch
+
+jobs:
+  run-scripts:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'  # Specify the Python version you need
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        # Add any other dependencies if needed
+
+    - name: Check for lock file
+      id: check-lock
+      run: |
+        if [ -f "script.lock" ]; then
+          echo "Lock file exists. Exiting."
+          exit 1
+        else
+          touch script.lock
+        fi
+
+    - name: Run Step1.py
+      run: python Step1.py
+
+    - name: Run Step2.py
+      run: python Step2.py
+
+    - name: Run Step3.py
+      run: python Step3.py
+
+    - name: Run Step4.py
+      run: python Step4.py
+
+    - name: Remove lock file
+      if: success()
+      run: rm script.lock
