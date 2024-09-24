@@ -117,4 +117,37 @@
 </head>
 <body>
 
-Error decoding JSON data from URL
+
+<div id="channelInfo">
+    <img src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33814-jo5jba9s-v3/imageContent-33814-jo5jba9s-m3.PNG" alt="Channel Logo">
+    <div class="channelName">Colors Tamil HD</div>
+</div>
+
+<div id="infoBox">
+    <img src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33814-jo5jba9s-v3/imageContent-33814-jo5jba9s-m3.PNG" background= "black" alt="Channel Logo">
+    <div class="title" style="color: white">Colors Tamil HD</div>
+    <div class="description" style="color: white" >Channel Description</div>
+</div>
+
+<div id="jwplayerDiv"></div>
+
+<div id="telegramInfo">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" alt="Telegram Logo">
+    <div class="telegramName">𝗪𝗢𝗥𝗟𝗗 𝗜𝗣𝗧𝗩 𝗠𝗔𝗖 𝗫𝗦𝗧𝗥𝗘𝗔𝗠 𝗖𝗢𝗗𝗘𝗦</div>
+</div>
+
+<script>
+    jwplayer.key = 'Khpp2dHxlBJHC8MCmLnBuV2jK/DwDnJMniwF6EO9HC/riJ712ZmbHg=='; // Include your JW Player key
+    jwplayer("jwplayerDiv").setup({
+        stretching: 'exactfit',
+        file: "https://tgaadi-web.tech/TP/Tata.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_916/output/master.mpd",
+        drm: {
+            clearkey: {
+                key: 'b716a3d7fd56939e0ffd40de3071707b',
+                keyId: 'b2edee19a37f508397655b9aa088ca50'
+            }
+        }
+    });
+</script>
+</body>
+</html>
