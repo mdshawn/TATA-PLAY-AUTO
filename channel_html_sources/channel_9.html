@@ -117,4 +117,37 @@
 </head>
 <body>
 
-Error decoding JSON data from URL
+
+<div id="channelInfo">
+    <img src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-27-j5fbpbbs-v1/imageContent-27-j5fbpbbs-m1.png" alt="Channel Logo">
+    <div class="channelName">Flowers</div>
+</div>
+
+<div id="infoBox">
+    <img src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-27-j5fbpbbs-v1/imageContent-27-j5fbpbbs-m1.png" background= "black" alt="Channel Logo">
+    <div class="title" style="color: white">Flowers</div>
+    <div class="description" style="color: white" >Channel Description</div>
+</div>
+
+<div id="jwplayerDiv"></div>
+
+<div id="telegramInfo">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" alt="Telegram Logo">
+    <div class="telegramName">𝗪𝗢𝗥𝗟𝗗 𝗜𝗣𝗧𝗩 𝗠𝗔𝗖 𝗫𝗦𝗧𝗥𝗘𝗔𝗠 𝗖𝗢𝗗𝗘𝗦</div>
+</div>
+
+<script>
+    jwplayer.key = 'Khpp2dHxlBJHC8MCmLnBuV2jK/DwDnJMniwF6EO9HC/riJ712ZmbHg=='; // Include your JW Player key
+    jwplayer("jwplayerDiv").setup({
+        stretching: 'exactfit',
+        file: "https://tgaadi-web.tech/TP/Tata.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_318/output/master.mpd",
+        drm: {
+            clearkey: {
+                key: '62da81e7539cd76a8a010a1383b539ea',
+                keyId: '5863762abf875f28b7f725442644812f'
+            }
+        }
+    });
+</script>
+</body>
+</html>
