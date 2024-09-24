@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-  <title>𝗧𝗮𝘁𝗮 𝗣𝗹𝗮𝘆 𝗪𝗲𝗯</title>
+  <title>𝗧𝗮𝘁𝗮 𝗣𝗹𝗮𝘆 ( 𝗚𝗹𝗼𝗯𝗮𝗹 🌎) 𝗪𝗲𝗯</title>
   <meta charset="utf-8">
   <meta name="theme-color" content="#f8f8f8" id="theme-color-meta">
   <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no" />
@@ -11,8 +11,8 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
   <link rel="shortcut icon" href="https://www.jiotv.com/favicon.ico" />
-  <link rel="shortcut icon" href="https://swarajya.gumlet.io/swarajya/2022-09/56703d5b-4863-4cb3-acc0-9efe39f4226e/Screenshot_2022_09_03_at_2_25_24_PM.jpg?q=55&auto=format,compress&format=webp" type="image/x-icon">
-  <link rel="icon" href="https://iili.io/HiZIZEN.md.jpg" type="image/x-icon">
+  <link rel="shortcut icon" href="https://iili.io/HiZIZEN.md.jpg" type="image/x-icon">
+  <link rel="icon" href="https://swarajya.gumlet.io/swarajya/2022-09/56703d5b-4863-4cb3-acc0-9efe39f4226e/Screenshot_2022_09_03_at_2_25_24_PM.jpg?q=55&auto=format,compress&format=webp" type="image/x-icon">
   <link rel="stylesheet" href="https://ipl-2023-schedule.pages.dev/jtv.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css">
   
@@ -457,7 +457,7 @@ filter: brightness(90%) contrast(100%); /* Adjust these values as per your prefe
   <div style="display: contents">
     <header class="text-gray-600 body-font">
       <div class="header-container">
-        <h1 id="title">      𝗧𝗮𝘁𝗮 𝗣𝗹𝗮𝘆 𝗪𝗲𝗯</h1>
+        <h1 id="title">𝗧𝗮𝘁𝗮 𝗣𝗹𝗮𝘆 ( 𝗚𝗹𝗼𝗯𝗮𝗹 🌎)</h1>
         <div class="toggle-wrapper">
           <input type="checkbox" class="checkbox" id="checkbox">
           <label for="checkbox" class="checkbox-label">
@@ -483,16 +483,23 @@ filter: brightness(90%) contrast(100%); /* Adjust these values as per your prefe
 				<div class="flex flex-row mb-3 ml-1 gap-3 justify-center align-middle" style="margin: 25px;"> <input type="search" id="searchInput" class="relative w-[100%] col-span-4 block mx-4 rounded-l border border-solid border-neutral-300 bg-transparent bg-clip-padding px-3 py-1.5 text-base font-normal text-neutral-700 outline-none transition duration-300 ease-in-out focus:border-primary focus:text-neutral-700 focus:shadow-te-primary focus:outline-none dark:text-neutral-600 dark:placeholder:text-neutral-700" placeholder="Search"></div>
 				<div id="listContainer" class="container grid place-items-center grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 2xl:grid-cols-8 mx-auto">
 					
-<div class="box1" ><a target="_blank" href="https://t.me/tataplayonline" data-sveltekit-preload-data="hover"> <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100"> <div class="mb-5 opacity-100">
-<h2 class="text-center text-sm font-bold">𝗪𝗢𝗥𝗟𝗗 𝗜𝗣𝗧𝗩</h2>
-<div class="flex justify-center space-x-1">
-<p class="text-xs text-center">𝗠𝗔𝗖 𝗫𝗦𝗧𝗥𝗘𝗔𝗠 𝗖𝗢𝗗𝗘𝗦</p>
-</div>
-								</div>
-							</div></a></div>		
 
           
+          
                                           <div class="box1">
+                      <a href="play.php?id=0" data-sveltekit-preload-data="hover">
+                          <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col">
+                              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" style="height:90px;" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
+                              <div class="mb-5 opacity-100">
+                                  <h2 class="text-center text-sm font-bold">𝗪𝗢𝗥𝗟𝗗 𝗜𝗣𝗧𝗩</h2>
+                                  <div class="flex justify-center space-x-1">
+                                      <p class="text-xs text-center">𝗠𝗔𝗖 𝗫𝗦𝗧𝗥𝗘𝗔𝗠 𝗖𝗢𝗗𝗘𝗦</p>
+                                  </div>
+                              </div>
+                          </div>
+                      </a>
+                  </div>
+                                                        <div class="box1">
                       <a href="play.php?id=1" data-sveltekit-preload-data="hover">
                           <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col">
                               <img src="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-3-j5dkuhwo-v1/imageContent-3-j5dkuhwo-m2.png" style="height:90px;" loading="lazy" class="h-28 mt-5 m-auto opacity-100">
@@ -9892,7 +9899,7 @@ filter: brightness(90%) contrast(100%); /* Adjust these values as per your prefe
                       </a>
                   </div>
                         
-							
+
 </div>
 
 </div>
