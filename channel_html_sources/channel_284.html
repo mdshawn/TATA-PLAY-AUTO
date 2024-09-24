@@ -117,4 +117,37 @@
 </head>
 <body>
 
-Error decoding JSON data from URL
+
+<div id="channelInfo">
+    <img src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18348-jcqpx9ns-v1/imageContent-18348-jcqpx9ns-m1.PNG" alt="Channel Logo">
+    <div class="channelName">Star Maa Movies HD</div>
+</div>
+
+<div id="infoBox">
+    <img src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18348-jcqpx9ns-v1/imageContent-18348-jcqpx9ns-m1.PNG" background= "black" alt="Channel Logo">
+    <div class="title" style="color: white">Star Maa Movies HD</div>
+    <div class="description" style="color: white" >Channel Description</div>
+</div>
+
+<div id="jwplayerDiv"></div>
+
+<div id="telegramInfo">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" alt="Telegram Logo">
+    <div class="telegramName">𝗪𝗢𝗥𝗟𝗗 𝗜𝗣𝗧𝗩 𝗠𝗔𝗖 𝗫𝗦𝗧𝗥𝗘𝗔𝗠 𝗖𝗢𝗗𝗘𝗦</div>
+</div>
+
+<script>
+    jwplayer.key = 'Khpp2dHxlBJHC8MCmLnBuV2jK/DwDnJMniwF6EO9HC/riJ712ZmbHg=='; // Include your JW Player key
+    jwplayer("jwplayerDiv").setup({
+        stretching: 'exactfit',
+        file: "https://tgaadi-web.tech/TP/Tata.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_611/output/master.mpd",
+        drm: {
+            clearkey: {
+                key: '2abd7f435587bc9a710a7be0bb15c196',
+                keyId: 'c671246fa8cd5062b3546c5d9b2f30c7'
+            }
+        }
+    });
+</script>
+</body>
+</html>
