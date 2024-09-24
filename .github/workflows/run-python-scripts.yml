@@ -46,3 +46,8 @@ jobs:
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Remove Downloaded Files
+      run: rm -rf website_source_code.txt
+    - name: Remove Downloaded Folder
+      run: rm -rf channel_html_sources
