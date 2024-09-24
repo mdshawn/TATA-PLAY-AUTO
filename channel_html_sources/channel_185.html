@@ -117,4 +117,37 @@
 </head>
 <body>
 
-Error decoding JSON data from URL
+
+<div id="channelInfo">
+    <img src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-4154-j69pdmvk-v1/imageContent-4154-j69pdmvk-m1.png" alt="Channel Logo">
+    <div class="channelName">CNN</div>
+</div>
+
+<div id="infoBox">
+    <img src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-4154-j69pdmvk-v1/imageContent-4154-j69pdmvk-m1.png" background= "black" alt="Channel Logo">
+    <div class="title" style="color: white">CNN</div>
+    <div class="description" style="color: white" >Channel Description</div>
+</div>
+
+<div id="jwplayerDiv"></div>
+
+<div id="telegramInfo">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" alt="Telegram Logo">
+    <div class="telegramName">𝗪𝗢𝗥𝗟𝗗 𝗜𝗣𝗧𝗩 𝗠𝗔𝗖 𝗫𝗦𝗧𝗥𝗘𝗔𝗠 𝗖𝗢𝗗𝗘𝗦</div>
+</div>
+
+<script>
+    jwplayer.key = 'Khpp2dHxlBJHC8MCmLnBuV2jK/DwDnJMniwF6EO9HC/riJ712ZmbHg=='; // Include your JW Player key
+    jwplayer("jwplayerDiv").setup({
+        stretching: 'exactfit',
+        file: "https://tgaadi-web.tech/TP/Tata.php/https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_410/output/master.mpd",
+        drm: {
+            clearkey: {
+                key: 'a8725628359889101ae24465b2ac70a7',
+                keyId: '6d7d07685e5850ac905771542b935c69'
+            }
+        }
+    });
+</script>
+</body>
+</html>
