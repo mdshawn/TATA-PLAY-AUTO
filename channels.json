@@ -2974,7 +2974,14 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=797",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49016-k5lx1za0-v2/imageContent-49016-k5lx1za0-m2.png",
         "name": "Zee Thirai",
-        "category": "Tamil"
+        "category": "Tamil",
+        "file": "https://tgaadi-web.tech/TP/Tata.php/https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_989/output/master.mpd",
+        "drm": {
+            "clearkey": {
+                "key": "6cc00aeb09f10e53bc5c1b3b521ca72a",
+                "keyId": "50fbc36b5e365162a1f915cee5cf2a53"
+            }
+        }
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=799",
@@ -3496,7 +3503,14 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=980",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-70046-l21cybww-v2/imageContent-70046-l21cybww-m5.png",
         "name": "Sports 18 - 1",
-        "category": "Sports"
+        "category": "Sports",
+        "file": "https://tgaadi-web.tech/TP/Tata.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1809/output/master.mpd",
+        "drm": {
+            "clearkey": {
+                "key": "53a72552cdbdf149a3db10c472effeb2",
+                "keyId": "2ab8652b7502594ba9341d4c44a0e426"
+            }
+        }
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=986",
@@ -3940,7 +3954,14 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=1183",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png",
         "name": "AndXplor HD",
-        "category": "Movies"
+        "category": "Movies",
+        "file": "https://tgaadi-web.tech/TP/Tata.php/https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1963/output/master.mpd",
+        "drm": {
+            "clearkey": {
+                "key": "11d84604274b60472420df08c374400d",
+                "keyId": "bf7409853e3054aa8c6cca0f0de7ea5a"
+            }
+        }
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=1194",
@@ -4330,7 +4351,14 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=1363",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPANML_Thumbnail-v2/TPANML_Thumbnail.png",
         "name": "Tata Play Anime Local",
-        "category": "Kids"
+        "category": "Kids",
+        "file": "https://tgaadi-web.tech/TP/Tata.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2115/output/master.mpd",
+        "drm": {
+            "clearkey": {
+                "key": "d8df6463c3e4914b49695bf6f6d14bdc",
+                "keyId": "777a36f02a9656ca8a980b049d30f6c3"
+            }
+        }
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=1371",
