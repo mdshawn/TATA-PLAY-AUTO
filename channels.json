@@ -43,8 +43,8 @@
         "file": "https://tgaadi-web.tech/TP/Tata.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/master.mpd",
         "drm": {
             "clearkey": {
-                "key": "ceae1c94a46c6cc7cf4d7ab7282cd268",
-                "keyId": "792d8349423c5b0b868d19b3bdcf2e24"
+                "key": "7e86a614501415de3831b9d16e9707f6",
+                "keyId": "fdb179132a895a77a8791f3ae3af6c70"
             }
         }
     },
@@ -92,8 +92,8 @@
         "file": "https://tgaadi-web.tech/TP/Tata.php/https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_300/output/master.mpd",
         "drm": {
             "clearkey": {
-                "key": "da1c2154401fd44a5a9fa3359cd4b99f",
-                "keyId": "24791d6ada925f1a8291f37e8e1c94cb"
+                "key": "ecb26614b80a66a9be0c51c4a20cf552",
+                "keyId": "0a0d3ec034bc51ee8d99aace380a045c"
             }
         }
     },
@@ -143,14 +143,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=27",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-78-j5fikkk8-v1/imageContent-78-j5fikkk8-m1.png",
         "name": "IBC 24",
-        "category": "Hindi",
-        "file": "https://tgaadi-web.tech/TP/Tata.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_331/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "62a9da53d4186dfe45e07ea127da9783",
-                "keyId": "18c6aa8560d85a35a0165eff21742993"
-            }
-        }
+        "category": "Hindi"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=30",
@@ -251,8 +244,8 @@
         "file": "https://tgaadi-web.tech/TP/Tata.php/https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_365/output/master.mpd",
         "drm": {
             "clearkey": {
-                "key": "115aec9bef26cec1255a39d9e369e29f",
-                "keyId": "b4026e4bf53854209f46db0a7071dba0"
+                "key": "44418f54ada54ddec4d60211a38e04df",
+                "keyId": "6e0b7712d3a954c7817fb84eb59fe571"
             }
         }
     },
@@ -322,7 +315,14 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=56",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-198-j5fsr7mw-v2/imageContent-198-j5fsr7mw-m3.png",
         "name": "Sony Wah",
-        "category": "Movies"
+        "category": "Movies",
+        "file": "https://tgaadi-web.tech/TP/Tata.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_386/output/master.mpd",
+        "drm": {
+            "clearkey": {
+                "key": "c69963d454857951fa9405198ca0e2d9",
+                "keyId": "10a719e1bb5c50cfa3a212616be06ca7"
+            }
+        }
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=58",
@@ -587,8 +587,8 @@
         "file": "https://tgaadi-web.tech/TP/Tata.php/https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/master.mpd",
         "drm": {
             "clearkey": {
-                "key": "0eaf69bb674302e4ba8646570c2bce55",
-                "keyId": "5d1d5039bce25b618e32de6ba383f3b5"
+                "key": "f8a48561a6519da2f4cf376ef2b63ca8",
+                "keyId": "487e24ef4bec5b729d8ce060922e02f0"
             }
         }
     },
@@ -730,7 +730,14 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=139",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-468-j5jwdbi8-v1/imageContent-468-j5jwdbi8-m1.png",
         "name": "9XM",
-        "category": "Music"
+        "category": "Music",
+        "file": "https://tgaadi-web.tech/TP/Tata.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_201/output/master.mpd",
+        "drm": {
+            "clearkey": {
+                "key": "42b49c32815a7bbf715a46a0b61de8fc",
+                "keyId": "66786839784d515c8aa881c450e197eb"
+            }
+        }
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=140",
@@ -2136,7 +2143,14 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=463",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png",
         "name": "Star Sports Select 2 HD",
-        "category": "Sports"
+        "category": "Sports",
+        "file": "https://tgaadi-web.tech/TP/Tata.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/master.mpd",
+        "drm": {
+            "clearkey": {
+                "key": "6fb896785c648db47a6f5827e6b9a619",
+                "keyId": "8717d09b69b0567db66dc62b1ce61a37"
+            }
+        }
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=464",
@@ -2474,8 +2488,8 @@
         "file": "https://tgaadi-web.tech/TP/Tata.php/https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_125/output/master.mpd",
         "drm": {
             "clearkey": {
-                "key": "49152fb248b83d75be505bb4bcce719b",
-                "keyId": "b119da6932dd5fb88749a48432dd719f"
+                "key": "d77bd8f674c9c69d1f037733049f753e",
+                "keyId": "6a0e6840de385b71907102d99d9156af"
             }
         }
     },
@@ -2499,8 +2513,8 @@
         "file": "https://tgaadi-web.tech/TP/Tata.php/https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_126/output/master.mpd",
         "drm": {
             "clearkey": {
-                "key": "6e896542d67893c2932b64e560a647de",
-                "keyId": "f25b3757d8485011a40d913ccc5998ac"
+                "key": "28bc044d0b2c144962ce264ec431875e",
+                "keyId": "79d3c709aab95d92bbc0cc7b537bec82"
             }
         }
     },
@@ -3568,8 +3582,8 @@
         "file": "https://tgaadi-web.tech/TP/Tata.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1793/output/master.mpd",
         "drm": {
             "clearkey": {
-                "key": "35dac5d96c826cac3ab6e824fe01778d",
-                "keyId": "43d57603263e53adbbd14b185b4f58f2"
+                "key": "a8b8a87feab95e927e93d1c7dfaab03c",
+                "keyId": "93e352cce9d955f1a80ed955f2bef3c3"
             }
         }
     },
@@ -4502,8 +4516,8 @@
         "file": "https://tgaadi-web.tech/TP/Tata.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2115/output/master.mpd",
         "drm": {
             "clearkey": {
-                "key": "d8df6463c3e4914b49695bf6f6d14bdc",
-                "keyId": "777a36f02a9656ca8a980b049d30f6c3"
+                "key": "2c983410ff23b4ebb12c85a3e1139647",
+                "keyId": "c395fe1ba4b15df3b1f9cfc477d940fd"
             }
         }
     },
