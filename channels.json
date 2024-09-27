@@ -50,8 +50,8 @@
         "file": "https://tgaadi-web.tech/TP/Tata.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/master.mpd",
         "drm": {
             "clearkey": {
-                "key": "de54cd84828121cbbf1c4802ae1a8b94",
-                "keyId": "b1a4fe234e26584b99a2138be87cd70f"
+                "key": "668d043c29b91edcc7861cfde0bd0785",
+                "keyId": "1989522c02575a279b5397314a338331"
             }
         }
     },
@@ -143,8 +143,8 @@
         "file": "https://tgaadi-web.tech/TP/Tata.php/https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/master.mpd",
         "drm": {
             "clearkey": {
-                "key": "9fcca6ba216d118ec0db604ffe3ad933",
-                "keyId": "f358210dab5e58bfa1ee4328a0a44112"
+                "key": "a3be5958f5b5f62d28646cba5a9d4fa2",
+                "keyId": "328bc08ddb935be7a4f23640360b6688"
             }
         }
     },
@@ -193,8 +193,8 @@
         "file": "https://tgaadi-web.tech/TP/Tata.php/https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_301/output/master.mpd",
         "drm": {
             "clearkey": {
-                "key": "d0196382e99ba85a4dee99115b87ee39",
-                "keyId": "258c6813a19a588aba8be038b22105d2"
+                "key": "dd7f56d451a91bf90ea7e29b6bd2a9f5",
+                "keyId": "b15da28edd3e56c7aec36afbc68c1bdb"
             }
         }
     },
@@ -225,8 +225,8 @@
         "file": "https://tgaadi-web.tech/TP/Tata.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_254/output/master.mpd",
         "drm": {
             "clearkey": {
-                "key": "9ddeb43c32bae9d1f396fa175fe8319b",
-                "keyId": "669540ca726951aaaabf6d3f9f9b2dc1"
+                "key": "0cb0f6c188bf9ae5f7fec3d727e7e414",
+                "keyId": "634dcd41a23a54dfbbf85898bfd70d74"
             }
         }
     },
@@ -671,8 +671,8 @@
         "file": "https://tgaadi-web.tech/TP/Tata.php/https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/master.mpd",
         "drm": {
             "clearkey": {
-                "key": "a1ce50502616a8f23c41292b27ca9b9b",
-                "keyId": "f67cb4e8ee965967a3dfeeeb99cc3edf"
+                "key": "299725fba9902ceea2175adacfe40398",
+                "keyId": "6b476eaa0ced59c58a868beb4f6edcf2"
             }
         }
     },
@@ -1758,7 +1758,14 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=326",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11350-j9jpk8pk-v1/imageContent-11350-j9jpk8pk-m1.png",
         "name": "DD Kisan",
-        "category": "Knowledge"
+        "category": "Knowledge",
+        "file": "https://tgaadi-web.tech/TP/Tata.php/https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_510/output/master.mpd",
+        "drm": {
+            "clearkey": {
+                "key": "ef5803c4e5ac8ca16b94dcb51f4eecde",
+                "keyId": "eee607787f3d5d9fad2ae0e03ec1a30c"
+            }
+        }
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=330",
@@ -2972,7 +2979,14 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=624",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/PITAA_Thumbnail-v2/PITAA_Thumbnail.png",
         "name": "Pitaara Movies",
-        "category": "Punjabi"
+        "category": "Punjabi",
+        "file": "https://tgaadi-web.tech/TP/Tata.php/https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_855/output/master.mpd",
+        "drm": {
+            "clearkey": {
+                "key": "e362f6e69d48250b8f74a7f3a987808b",
+                "keyId": "43c84d5df70f59818b23332d64abb4a5"
+            }
+        }
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=626",
@@ -3918,8 +3932,8 @@
         "file": "https://tgaadi-web.tech/TP/Tata.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1793/output/master.mpd",
         "drm": {
             "clearkey": {
-                "key": "2a412efca300bda92eb8defe50e8afc3",
-                "keyId": "3cc3c8ce79c75f399d834a49d8cb56b8"
+                "key": "3396e04d67d99e228d382e8dcc7b68c7",
+                "keyId": "667099318bd75c26bfa50b3344f27dc7"
             }
         }
     },
