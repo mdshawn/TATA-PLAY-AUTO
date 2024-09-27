@@ -71,7 +71,14 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=11",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-30-j5fc0v80-v2/imageContent-30-j5fc0v80-m2.png",
         "name": "TV9 Telugu",
-        "category": "Telugu"
+        "category": "Telugu",
+        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_290/output/master.mpd",
+        "drm": {
+            "clearkey": {
+                "key": "b3f41f7686931fe4182395408f6d193d",
+                "keyId": "349c3f62a4005e8a9930b3a462caa0d0"
+            }
+        }
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=12",
@@ -89,7 +96,14 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=14",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9012-j7ssufeo-v1/imageContent-9012-j7ssufeo-m1.png",
         "name": "India News Rajasthan",
-        "category": "News"
+        "category": "News",
+        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_360/output/master.mpd",
+        "drm": {
+            "clearkey": {
+                "key": "b3f41f7686931fe4182395408f6d193d",
+                "keyId": "349c3f62a4005e8a9930b3a462caa0d0"
+            }
+        }
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=15",
@@ -143,8 +157,8 @@
         "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/master.mpd",
         "drm": {
             "clearkey": {
-                "key": "a5db894dc50a55ea67d35785a984bae1",
-                "keyId": "14d9b4d74f9f54539c6fe3290675d830"
+                "key": "b6ce5033a917f3a4bf3b2df70c44d1db",
+                "keyId": "119491b5223d5f7ea6967e32efa26700"
             }
         }
     },
@@ -344,8 +358,8 @@
         "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_299/output/master.mpd",
         "drm": {
             "clearkey": {
-                "key": "e474f853d9e0b4c8f33341a22d4d5e54",
-                "keyId": "2ba9f02cbe995b4ea9717b7693e7ce18"
+                "key": "6b35366a5cbb09184db8094f72dfa5c4",
+                "keyId": "d0770884d5b25eaaae6099866f8f21ce"
             }
         }
     },
@@ -482,8 +496,8 @@
         "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/master.mpd",
         "drm": {
             "clearkey": {
-                "key": "5f121acdc975de27ac8ebf7aad37f8b0",
-                "keyId": "0bf2e29e4231501a98387a734c05066e"
+                "key": "268d8a0d378700574aca6b79536be745",
+                "keyId": "59b75e1d686d51258f3f49170776197c"
             }
         }
     },
@@ -692,8 +706,8 @@
         "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/master.mpd",
         "drm": {
             "clearkey": {
-                "key": "dbe095c489cbbb38338f1fce03391d03",
-                "keyId": "83623501fd2c5d7aaa942976d0b8c2ef"
+                "key": "b3f41f7686931fe4182395408f6d193d",
+                "keyId": "349c3f62a4005e8a9930b3a462caa0d0"
             }
         }
     },
@@ -1146,7 +1160,14 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=187",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1577-j5xrm7fc-v1/imageContent-1577-j5xrm7fc-m1.png",
         "name": "Colors Infinity HD",
-        "category": "Entertainment"
+        "category": "Entertainment",
+        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_304/output/master.mpd",
+        "drm": {
+            "clearkey": {
+                "key": "db12e493c70d66d9e0c6b9f86dc3e69c",
+                "keyId": "845fbebde43a5f47886ca296468f85f5"
+            }
+        }
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=188",
@@ -1451,8 +1472,8 @@
         "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_251/output/master.mpd",
         "drm": {
             "clearkey": {
-                "key": "7a08e7a122f500da65393d85086c7fa6",
-                "keyId": "254beb0d613351b5b0cf6a098fd92b4c"
+                "key": "5470a79dc3a59e590244baab2d7bc4d4",
+                "keyId": "abb53fc555f85a5783bfc8d7466904b7"
             }
         }
     },
@@ -1502,8 +1523,8 @@
         "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_411/output/master.mpd",
         "drm": {
             "clearkey": {
-                "key": "9ecdb2e640a6a9c57b79a0cf270ab521",
-                "keyId": "59ed7c0d84aa5ec2a2dd5fdbf6a1ebae"
+                "key": "40c7ae085c63876e011ac594830f985b",
+                "keyId": "e16ba645b75154c9b2075f8e890ee6a8"
             }
         }
     },
@@ -1836,8 +1857,8 @@
         "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_491/output/master.mpd",
         "drm": {
             "clearkey": {
-                "key": "a3e93ea365d069877b151f75e53257d3",
-                "keyId": "a25d3f60d4ff55cc8d815577bc53d034"
+                "key": "e8e8f3ff491e6a63b9e28a585dcb0a92",
+                "keyId": "feccc745368e5274875405e45116261b"
             }
         }
     },
@@ -2834,7 +2855,14 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=537",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11514-j9jtp5tk-v1/imageContent-11514-j9jtp5tk-m2.png",
         "name": "Jalsha Movies HD",
-        "category": "Bengali"
+        "category": "Bengali",
+        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_583/output/master.mpd",
+        "drm": {
+            "clearkey": {
+                "key": "fcf34aae1fff2fffb623c58d8b5541f2",
+                "keyId": "21186943ed6650b1a2d6a802743cadd5"
+            }
+        }
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=539",
@@ -2975,8 +3003,8 @@
         "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_126/output/master.mpd",
         "drm": {
             "clearkey": {
-                "key": "e07549d8a142f801ac1a9d4e5556fc5e",
-                "keyId": "66e4f8867c7154e0897605bce5140b8b"
+                "key": "f8740b7324f779f6bb919a1aaf47a7f2",
+                "keyId": "d2fdd051136556f4815bba3801689c22"
             }
         }
     },
@@ -3068,8 +3096,8 @@
         "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_781/output/master.mpd",
         "drm": {
             "clearkey": {
-                "key": "bed1128527d4fdfa5c6232550a9958ab",
-                "keyId": "1bf9450978ca5a458c7f360dcc36a908"
+                "key": "22d040dd2add7fe3dab7f7c1f90efaa7",
+                "keyId": "783c19b54791559fa6394b0f0917499f"
             }
         }
     },
@@ -3760,8 +3788,8 @@
         "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1109/output/master.mpd",
         "drm": {
             "clearkey": {
-                "key": "6b8be0ed574e64957996aecd039020be",
-                "keyId": "7e60c517fb515ae1a6912dbbce51fbd1"
+                "key": "7db4f4f46f48b47aa93f8c46ffad7c03",
+                "keyId": "45e4c85771415b9cadfc3e09fd34637f"
             }
         }
     },
