@@ -50,8 +50,8 @@
         "file": "https://tgaadi-web.tech/TP/Tata.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/master.mpd",
         "drm": {
             "clearkey": {
-                "key": "668d043c29b91edcc7861cfde0bd0785",
-                "keyId": "1989522c02575a279b5397314a338331"
+                "key": "b2601988ff5b0870605d05acdc17b1bc",
+                "keyId": "8a1cf47959865a919a1e8d0a76200e5d"
             }
         }
     },
@@ -312,8 +312,8 @@
         "file": "https://tgaadi-web.tech/TP/Tata.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_307/output/master.mpd",
         "drm": {
             "clearkey": {
-                "key": "5a589b43eae581d45bfc07a0dd223dd3",
-                "keyId": "f1b6a2f6fdf95f2783312a8290e3dd06"
+                "key": "1205c72ca9eb73005dd7321867226b6f",
+                "keyId": "7cb0a09449475370857c9ef44f6ca527"
             }
         }
     },
@@ -2405,7 +2405,14 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=469",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11807-j9kyzle8-v1/imageContent-11807-j9kyzle8-m1.png",
         "name": "Star Pravah HD",
-        "category": "Marathi"
+        "category": "Marathi",
+        "file": "https://tgaadi-web.tech/TP/Tata.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_744/output/master.mpd",
+        "drm": {
+            "clearkey": {
+                "key": "72fd6823e09cb90642b0c169099eab00",
+                "keyId": "9a81080a5e205a3aa032e13361cc1d10"
+            }
+        }
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=474",
@@ -2561,8 +2568,8 @@
         "file": "https://tgaadi-web.tech/TP/Tata.php/https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/master.mpd",
         "drm": {
             "clearkey": {
-                "key": "551712883eca33282e89ca643f5a19a9",
-                "keyId": "ddca655623945c6ca4988f42deeb0f9a"
+                "key": "ac9d53663956099d6109e73e46d09014",
+                "keyId": "4fea383bd8e254ad89f666d3ffad142b"
             }
         }
     },
@@ -2772,8 +2779,8 @@
         "file": "https://tgaadi-web.tech/TP/Tata.php/https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_126/output/master.mpd",
         "drm": {
             "clearkey": {
-                "key": "bb3967e064fd64afa5dabac79b961604",
-                "keyId": "22c96be56beb53428ccbb58c4a69ca4c"
+                "key": "69157d67541d603a33c5ac9e94288a88",
+                "keyId": "4f5bee9aa23d579493c6879031978c21"
             }
         }
     },
