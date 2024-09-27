@@ -33,27 +33,13 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=7",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png",
         "name": "B4U Movies",
-        "category": "Movies",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_276/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "949fdf46c07422b71ccc41f48c33ba24",
-                "keyId": "9518c29b08c45c87b986b33a651de68d"
-            }
-        }
+        "category": "Movies"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=8",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",
         "name": "STAR Plus HD",
-        "category": "Entertainment",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "d33e12d75f758e20dfb175d17d8e7050",
-                "keyId": "24f4c680188e5ccfa1f96a1ec42f86c0"
-            }
-        }
+        "category": "Entertainment"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=9",
@@ -71,14 +57,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=11",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-30-j5fc0v80-v2/imageContent-30-j5fc0v80-m2.png",
         "name": "TV9 Telugu",
-        "category": "Telugu",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_290/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "b3f41f7686931fe4182395408f6d193d",
-                "keyId": "349c3f62a4005e8a9930b3a462caa0d0"
-            }
-        }
+        "category": "Telugu"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=12",
@@ -96,27 +75,13 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=14",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9012-j7ssufeo-v1/imageContent-9012-j7ssufeo-m1.png",
         "name": "India News Rajasthan",
-        "category": "News",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_360/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "b3f41f7686931fe4182395408f6d193d",
-                "keyId": "349c3f62a4005e8a9930b3a462caa0d0"
-            }
-        }
+        "category": "News"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=15",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png",
         "name": "SET HD",
-        "category": "Entertainment",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_300/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "e3b64c68ebac7e8d32d737ff2e9dbfaa",
-                "keyId": "64d63816870b509da34e7b4f16a572fb"
-            }
-        }
+        "category": "Entertainment"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=17",
@@ -128,14 +93,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=20",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11140-j96syfuo-v1/imageContent-11140-j96syfuo-m1.png",
         "name": "Zee Bihar Jharkhand",
-        "category": "Hindi",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_389/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "0beb572660171f4d038dd13bae7a6e0b",
-                "keyId": "88b7cebf121b5eb8b110eb3caecd7318"
-            }
-        }
+        "category": "Hindi"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=22",
@@ -153,27 +111,13 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=24",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",
         "name": "Star Sports 1 Hindi HD",
-        "category": "Sports",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "b6ce5033a917f3a4bf3b2df70c44d1db",
-                "keyId": "119491b5223d5f7ea6967e32efa26700"
-            }
-        }
+        "category": "Sports"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=25",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33-j5fc5fko-v1/imageContent-33-j5fc5fko-m1.png",
         "name": "Kairali TV",
-        "category": "Malayalam",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_319/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "26da36e3e0da3f0b369c9b0183d62697",
-                "keyId": "31e2d929cc385a9395222116ccec3090"
-            }
-        }
+        "category": "Malayalam"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=26",
@@ -203,14 +147,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=32",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png",
         "name": "SONY PIX HD",
-        "category": "Movies",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_301/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "3858e8b87e2bb7723b7ab3bb3f803e60",
-                "keyId": "93369dd0ff0c5163ba2b4b7ae2956b11"
-            }
-        }
+        "category": "Movies"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=33",
@@ -222,27 +159,13 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=34",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-94-j5fjveio-v3/imageContent-94-j5fjveio-m2.png",
         "name": "SONY AATH",
-        "category": "Bengali",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_285/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "721e9a08d1ef2a66b5d6a19c0265e353",
-                "keyId": "080751ddee1556298e30a8e3200480ba"
-            }
-        }
+        "category": "Bengali"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=35",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png",
         "name": "SONY SPORTS TEN 5 HD",
-        "category": "Sports",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_254/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "390311ff6faead09ce08437630e31a2d",
-                "keyId": "f4ec9de941215b38aa4fef6fffaaae2a"
-            }
-        }
+        "category": "Sports"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=36",
@@ -266,27 +189,13 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=39",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-102-j5fl5pyg-v1/imageContent-102-j5fl5pyg-m1.png",
         "name": "9X Jalwa",
-        "category": "Music",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_355/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "5c8e8db1bef029f553bf61d01eac66e3",
-                "keyId": "f76b4956ef5a568bbf0c123d88369dae"
-            }
-        }
+        "category": "Music"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=40",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png",
         "name": "Andtv HD",
-        "category": "Entertainment",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_303/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "b24b88a42d37b8df33f8a74378c147ac",
-                "keyId": "52157f3f7ece5e43869d52f036bd276b"
-            }
-        }
+        "category": "Entertainment"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=41",
@@ -310,14 +219,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=45",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png",
         "name": "SONY YAY!",
-        "category": "Kids",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_365/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "073f3cd6a6f6341f3bec15741f6f8ac1",
-                "keyId": "83be5484130050659a8e1d1c9067ec85"
-            }
-        }
+        "category": "Kids"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=47",
@@ -329,14 +231,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=48",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png",
         "name": "SONY SAB HD",
-        "category": "Entertainment",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_307/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "f94f2b162d6a313434fa58334470d17c",
-                "keyId": "3983e94ca63f5729abc601ff68a11872"
-            }
-        }
+        "category": "Entertainment"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=49",
@@ -354,27 +249,13 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=52",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png",
         "name": "Colors HD",
-        "category": "Entertainment",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_299/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "6b35366a5cbb09184db8094f72dfa5c4",
-                "keyId": "d0770884d5b25eaaae6099866f8f21ce"
-            }
-        }
+        "category": "Entertainment"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=53",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-149-j5frd0jc-v2/imageContent-149-j5frd0jc-m2.png",
         "name": "Colors Cineplex",
-        "category": "Movies",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_384/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "c618f1db5aae22198d6730badf349031",
-                "keyId": "1d5895b49eaa585c9d2a2973399f7aad"
-            }
-        }
+        "category": "Movies"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=54",
@@ -392,14 +273,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=56",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-198-j5fsr7mw-v2/imageContent-198-j5fsr7mw-m3.png",
         "name": "Sony Wah",
-        "category": "Movies",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_386/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "c69963d454857951fa9405198ca0e2d9",
-                "keyId": "10a719e1bb5c50cfa3a212616be06ca7"
-            }
-        }
+        "category": "Movies"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=58",
@@ -417,27 +291,13 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=61",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png",
         "name": "Colors Cineplex HD",
-        "category": "Movies",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_385/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "cbd3be29c2461a01133ffe03782418f6",
-                "keyId": "fbec5020e1cf58208e58a071c60fa22f"
-            }
-        }
+        "category": "Movies"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=63",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png",
         "name": "Zee TV HD",
-        "category": "Entertainment",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "17806602f35e1a6034a336c7fa18bf00",
-                "keyId": "d85a290347595154aea2ba88cb6a1727"
-            }
-        }
+        "category": "Entertainment"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=64",
@@ -467,14 +327,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=71",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25721-jia4i70o-v2/imageContent-25721-jia4i70o-m3.PNG",
         "name": "Tata Play English in Hindi",
-        "category": "Knowledge",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_396/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "3fd15043ea6c45cd36f3362fb9c3c9c8",
-                "keyId": "96c04af3da7c51bdbf594bcfa36f959a"
-            }
-        }
+        "category": "Knowledge"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=72",
@@ -492,14 +345,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=78",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",
         "name": "Star Sports 1 HD",
-        "category": "Sports",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "268d8a0d378700574aca6b79536be745",
-                "keyId": "59b75e1d686d51258f3f49170776197c"
-            }
-        }
+        "category": "Sports"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=79",
@@ -511,27 +357,13 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=80",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png",
         "name": "SONY MAX HD",
-        "category": "Movies",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_305/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "61438b855946be523a0d2fddda861cb1",
-                "keyId": "b62e17c592d8507da4bb262fca264282"
-            }
-        }
+        "category": "Movies"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=81",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png",
         "name": "SONY SPORTS TEN 1 HD",
-        "category": "Sports",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_256/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "3177f597305e338cfd71a90dc6837826",
-                "keyId": "1d0e13654f0656eaa344b0a4bd3d4a92"
-            }
-        }
+        "category": "Sports"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=83",
@@ -555,14 +387,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=88",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6904-j6vreaps-v1/imageContent-6904-j6vreaps-m1.png",
         "name": "ET NOW",
-        "category": "News",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_163/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "1454eb2b27e51b71211c3b7ee773521d",
-                "keyId": "9a9301aa48fb5a9e81e4874f787da7e4"
-            }
-        }
+        "category": "News"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=90",
@@ -634,14 +459,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=102",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-321-j5jl5g5k-v2/imageContent-321-j5jl5g5k-m2.png",
         "name": "ABP Ananda",
-        "category": "Bengali",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_249/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "1dd16def6c7ec964de8f0bf4474ad044",
-                "keyId": "015f255ff1c851fc9b1c4ab943c4e796"
-            }
-        }
+        "category": "Bengali"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=103",
@@ -665,14 +483,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=106",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-339-j5jm6kko-v1/imageContent-339-j5jm6kko-m1.png",
         "name": "News18 India",
-        "category": "News",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_149/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "8bfcab53d36a242dbacc92f33fcc7bae",
-                "keyId": "25c4247ebe8751778a161a78c69981c8"
-            }
-        }
+        "category": "News"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=107",
@@ -702,14 +513,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=114",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",
         "name": "Disney",
-        "category": "Kids",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "b3f41f7686931fe4182395408f6d193d",
-                "keyId": "349c3f62a4005e8a9930b3a462caa0d0"
-            }
-        }
+        "category": "Kids"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=115",
@@ -733,66 +537,31 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=119",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24724-jgvwokqw-v1/imageContent-24724-jgvwokqw-m1.png",
         "name": "Discovery Kids",
-        "category": "Kids",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_130/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "93b01d98aeb495cb8943013642bf8012",
-                "keyId": "4fafbb6d6cb35b73af31cb9780875692"
-            }
-        }
+        "category": "Kids"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=120",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png",
         "name": "SONY MAX 2",
-        "category": "Movies",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_199/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "6175363ef17f390589eb071e1ba40b60",
-                "keyId": "656c74dd93fe589ca40ff0f848b1a93a"
-            }
-        }
+        "category": "Movies"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=121",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-405-j5jr3sz4-v2/imageContent-405-j5jr3sz4-m2.png",
         "name": "Tata Play Fitness",
-        "category": "Lifestyle",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_209/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "c2ae1ba2f00b39de461796139fcd9540",
-                "keyId": "58b2bbaa05de5b57ab3d1a47f03bb479"
-            }
-        }
+        "category": "Lifestyle"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=122",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-408-j5jr93k8-v1/imageContent-408-j5jr93k8-m1.png",
         "name": "PTC Punjabi",
-        "category": "Punjabi",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_216/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "693dec73c075baa30ec97e015bde8382",
-                "keyId": "1365a72f3df35da58ac69a02a41bfc64"
-            }
-        }
+        "category": "Punjabi"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=123",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11027-j8yjr8k0-v1/imageContent-11027-j8yjr8k0-m1.png",
         "name": "Zee Cinema",
-        "category": "Movies",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_185/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "87ac9cfc5767e1bb0ad83de5082a9136",
-                "keyId": "6802b91a59c25bd6917440dfec16a181"
-            }
-        }
+        "category": "Movies"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=126",
@@ -804,14 +573,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=127",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8018-j7a7n1a8-v1/imageContent-8018-j7a7n1a8-m1.png",
         "name": "Sonic Nickelodeon",
-        "category": "Kids",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_169/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "f660e35b057a4b7104b7d2b5579e8bf2",
-                "keyId": "6033ab825a105807bb951e9bd9758bd2"
-            }
-        }
+        "category": "Kids"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=128",
@@ -847,14 +609,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=134",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-450-j5jtumug-v3/imageContent-450-j5jtumug-m3.png",
         "name": "Colors Marathi",
-        "category": "Marathi",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_230/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "546a094bf0c34e3b3936c9140ea860fc",
-                "keyId": "3a2c0433696d5ff3a5450f837f59b954"
-            }
-        }
+        "category": "Marathi"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=135",
@@ -878,27 +633,13 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=138",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-465-j5jw9va0-v1/imageContent-465-j5jw9va0-m1.png",
         "name": "Nick",
-        "category": "Kids",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_117/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "d14c5623c281641398b852da82b9d5d6",
-                "keyId": "c86f00138a4a59f9989c799daba67856"
-            }
-        }
+        "category": "Kids"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=139",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-468-j5jwdbi8-v1/imageContent-468-j5jwdbi8-m1.png",
         "name": "9XM",
-        "category": "Music",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_201/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "42b49c32815a7bbf715a46a0b61de8fc",
-                "keyId": "66786839784d515c8aa881c450e197eb"
-            }
-        }
+        "category": "Music"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=140",
@@ -916,14 +657,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=144",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35368-jr3xz7xs-v1/imageContent-35368-jr3xz7xs-m1.png",
         "name": "Disney Junior",
-        "category": "Kids",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_167/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "b4272d20c2e82be2e590bf50772066d2",
-                "keyId": "7e8a8473108054ca9a2774275824af07"
-            }
-        }
+        "category": "Kids"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=145",
@@ -941,27 +675,13 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=148",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-499-j5jydp7s-v1/imageContent-499-j5jydp7s-m1.png",
         "name": "Andpictures",
-        "category": "Movies",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_203/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "25aa345a16fb5797c2473c8751946c0c",
-                "keyId": "2072a8dc97eb51c6aa9107800f17c1d9"
-            }
-        }
+        "category": "Movies"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=150",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-513-j5jzouqw-v5/imageContent-513-j5jzouqw-m7.png",
         "name": "SONY SPORTS TEN 1",
-        "category": "Sports",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_114/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "9cc8183f607d4f4ce8de15d87b02baff",
-                "keyId": "04ec81e8176550ee851c59940a3efd1a"
-            }
-        }
+        "category": "Sports"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=151",
@@ -1015,27 +735,13 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=166",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23206-jey39grs-v1/imageContent-23206-jey39grs-m2.png",
         "name": "News18 Bihar Jharkhand",
-        "category": "Hindi",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_247/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "1c8ffe46c580fda66b2187263d88eac7",
-                "keyId": "73f20d8c7a5c568fa102fd205c5bea41"
-            }
-        }
+        "category": "Hindi"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=167",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-703-j5l1wgco-v2/imageContent-703-j5l1wgco-m2.png",
         "name": "Tata Play Vedic Maths",
-        "category": "Knowledge",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_392/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "048628c1f55e90b1e263f8081f1acc88",
-                "keyId": "887f3df123da57aaacf3aec4b8bc1de1"
-            }
-        }
+        "category": "Knowledge"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=168",
@@ -1047,27 +753,13 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=170",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-742-j5l50le0-v5/imageContent-742-j5l50le0-m7.png",
         "name": "SONY SPORTS TEN 2",
-        "category": "Sports",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_115/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "daa70eddadc5247fc1394339ecc931e4",
-                "keyId": "224f8cfe65835e858e00598a44001046"
-            }
-        }
+        "category": "Sports"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=171",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-739-j5l4y6yw-v5/imageContent-739-j5l4y6yw-m5.png",
         "name": "SONY SPORTS TEN 3",
-        "category": "Sports",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_116/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "e2ff2b1c56e8c41db237fba2e3072f1b",
-                "keyId": "28c3d88fa7d85df187452280b5e39424"
-            }
-        }
+        "category": "Sports"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=172",
@@ -1085,14 +777,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=174",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-751-j5l5kb9k-v3/imageContent-751-j5l5kb9k-m3.png",
         "name": "Romedy Now",
-        "category": "Movies",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_236/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "e69705eb8aed48e5ef99fd1449931cc6",
-                "keyId": "553025cea9125f61b50c73805acfe083"
-            }
-        }
+        "category": "Movies"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=175",
@@ -1104,14 +789,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=177",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-759-j5m13014-v2/imageContent-759-j5m13014-m3.png",
         "name": "ABP News",
-        "category": "News",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_165/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "0995b034163bbef2b867647239f7862c",
-                "keyId": "4a219d6890f1564fab5c5321cd63fc8a"
-            }
-        }
+        "category": "News"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=178",
@@ -1135,14 +813,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=181",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-768-j5m31cfs-v1/imageContent-768-j5m31cfs-m1.png",
         "name": "Bhojpuri Cinema",
-        "category": "Hindi",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_379/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "2521c263f614a1c326ba8ada30848a0f",
-                "keyId": "4f7ba2f1f7925f40993abc4198c0e6f9"
-            }
-        }
+        "category": "Hindi"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=183",
@@ -1160,14 +831,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=187",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1577-j5xrm7fc-v1/imageContent-1577-j5xrm7fc-m1.png",
         "name": "Colors Infinity HD",
-        "category": "Entertainment",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_304/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "db12e493c70d66d9e0c6b9f86dc3e69c",
-                "keyId": "845fbebde43a5f47886ca296468f85f5"
-            }
-        }
+        "category": "Entertainment"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=188",
@@ -1191,14 +855,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=191",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-795-j5m7axrc-v1/imageContent-795-j5m7axrc-m1.png",
         "name": "DD National",
-        "category": "Entertainment",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_140/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "c9e71a46601fd0b81ed784eddb659713",
-                "keyId": "5749f30ab1375fecb69ce45a709cc727"
-            }
-        }
+        "category": "Entertainment"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=192",
@@ -1252,14 +909,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=204",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-846-j5m9p55k-v1/imageContent-846-j5m9p55k-m1.png",
         "name": "CNBC Awaaz",
-        "category": "News",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_147/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "6b16758e33342e56db4465d8d4e4229b",
-                "keyId": "5714dfc511765b538af4330490f4ef8f"
-            }
-        }
+        "category": "News"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=205",
@@ -1295,14 +945,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=210",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-826-j5m9kx5c-v1/imageContent-826-j5m9kx5c-m1.png",
         "name": "MN+ HD",
-        "category": "Movies",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_259/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "ce1cc0bee1790d9269b72e5b378cbd35",
-                "keyId": "8eb385a6e412575ea740293d14fee557"
-            }
-        }
+        "category": "Movies"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=211",
@@ -1368,14 +1011,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=223",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png",
         "name": "DD Sports",
-        "category": "Sports",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_146/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "33ce15cfaa9957d636efc43cb68f231c",
-                "keyId": "82cb959ba4305affb5eb449f012f7143"
-            }
-        }
+        "category": "Sports"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=224",
@@ -1411,27 +1047,13 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=229",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1008-j5nfqjeo-v1/imageContent-1008-j5nfqjeo-m1.png",
         "name": "Surya Movies",
-        "category": "Malayalam",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_243/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "5197fb99a5ca445b7b02031fa58a309f",
-                "keyId": "090eb1a336605041ac344a238cd6e4b0"
-            }
-        }
+        "category": "Malayalam"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=230",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1005-j5nfiy9c-v1/imageContent-1005-j5nfiy9c-m1.png",
         "name": "Surya TV",
-        "category": "Malayalam",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_212/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "2443e45a88674b563c23b73010bcacfc",
-                "keyId": "5b650cda891255748a3eedf4e9b902c7"
-            }
-        }
+        "category": "Malayalam"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=231",
@@ -1455,27 +1077,13 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=234",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1017-j5ngpo2g-v1/imageContent-1017-j5ngpo2g-m1.png",
         "name": "MNX",
-        "category": "Movies",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_237/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "80757ed26cf2defa3bf4a5ad42ef9ea9",
-                "keyId": "bb9e408eb4cd56f4af930fb3c103b8c9"
-            }
-        }
+        "category": "Movies"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=235",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png",
         "name": "Star Sports 2 HD",
-        "category": "Sports",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_251/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "5470a79dc3a59e590244baab2d7bc4d4",
-                "keyId": "abb53fc555f85a5783bfc8d7466904b7"
-            }
-        }
+        "category": "Sports"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=236",
@@ -1487,27 +1095,13 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=238",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png",
         "name": "Cartoon Network",
-        "category": "Kids",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_405/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "ef161f7a1b47888696ea12356899668e",
-                "keyId": "2fc6dd6771b1534494c9ae4546379084"
-            }
-        }
+        "category": "Kids"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=239",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png",
         "name": "Pogo",
-        "category": "Kids",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_406/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "9350946853f7cd2912f76700e2c44c63",
-                "keyId": "6b00bf13d33753cab12731daa73461a7"
-            }
-        }
+        "category": "Kids"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=243",
@@ -1519,53 +1113,25 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=244",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png",
         "name": "Star Bharat HD",
-        "category": "Entertainment",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_411/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "40c7ae085c63876e011ac594830f985b",
-                "keyId": "e16ba645b75154c9b2075f8e890ee6a8"
-            }
-        }
+        "category": "Entertainment"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=245",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png",
         "name": "STAR GOLD HD",
-        "category": "Movies",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_412/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "336f20ae9edfe80090d51500d604a756",
-                "keyId": "9afbeeefd7d3599293667ef30788e7a4"
-            }
-        }
+        "category": "Movies"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=246",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG",
         "name": "Star Sports Select 1 HD",
-        "category": "Sports",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_413/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "9280a867c23dade140586aa9357f5164",
-                "keyId": "56d12dcb6d11599db71004c7fd0ad10e"
-            }
-        }
+        "category": "Sports"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=248",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11136-j96p4r28-v1/imageContent-11136-j96p4r28-m1.png",
         "name": "Zee YUVA",
-        "category": "Marathi",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_426/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "a57a81f3ed23af1c1612c2da485b7734",
-                "keyId": "17737c7a011b5842bd17077f86eabceb"
-            }
-        }
+        "category": "Marathi"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=249",
@@ -1577,14 +1143,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=250",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8845-j7ppmm28-v3/imageContent-8845-j7ppmm28-m7.png",
         "name": "Zee Telugu",
-        "category": "Telugu",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_415/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "fd752db09559a7e53feaf5d829a7fb9c",
-                "keyId": "8046da57cac75ae68106561b25508a84"
-            }
-        }
+        "category": "Telugu"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=251",
@@ -1662,14 +1221,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=267",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png",
         "name": "Andpictures HD",
-        "category": "Movies",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_454/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "d40fc727ad8466778d71317051e09b3e",
-                "keyId": "9ec4445d7dd652aba48b4cc9aa144d86"
-            }
-        }
+        "category": "Movies"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=268",
@@ -1741,14 +1293,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=287",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44915-jzuyh3w0-v1/imageContent-44915-jzuyh3w0-m1.png",
         "name": "Animal Planet HD World",
-        "category": "Knowledge",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_457/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "d8a6763460144d66338432795fedb302",
-                "keyId": "392398d9fd245014b6aeacba0814fc08"
-            }
-        }
+        "category": "Knowledge"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=288",
@@ -1772,14 +1317,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=292",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11246-j9iw5g74-v3/imageContent-11246-j9iw5g74-m3.png",
         "name": "Asianet HD",
-        "category": "Malayalam",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_464/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "27504b24b19aeb61fae4146da7e429ea",
-                "keyId": "42d852948b65510cae8bc15fe6469877"
-            }
-        }
+        "category": "Malayalam"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=293",
@@ -1797,27 +1335,13 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=296",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11263-j9j1tch4-v2/imageContent-11263-j9j1tch4-m5.png",
         "name": "BFLIX",
-        "category": "Movies",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_472/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "43f8800df467dbf2902b0eb275b09cec",
-                "keyId": "df2b14bb0c525792ba48fb283a51e739"
-            }
-        }
+        "category": "Movies"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=297",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11266-j9j2spmg-v1/imageContent-11266-j9j2spmg-m1.png",
         "name": "Big Magic",
-        "category": "Entertainment",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_476/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "c975d23a3a18a9d62c6b895e2b78d53b",
-                "keyId": "7089f6f00c5f59609aa69592b4af5482"
-            }
-        }
+        "category": "Entertainment"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=303",
@@ -1853,14 +1377,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=308",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-16764-jcix3xpc-v2/imageContent-16764-jcix3xpc-m2.PNG",
         "name": "Colors Marathi HD",
-        "category": "Marathi",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_491/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "e8e8f3ff491e6a63b9e28a585dcb0a92",
-                "keyId": "feccc745368e5274875405e45116261b"
-            }
-        }
+        "category": "Marathi"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=311",
@@ -1926,14 +1443,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=326",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11350-j9jpk8pk-v1/imageContent-11350-j9jpk8pk-m1.png",
         "name": "DD Kisan",
-        "category": "Knowledge",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_510/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "ef5803c4e5ac8ca16b94dcb51f4eecde",
-                "keyId": "eee607787f3d5d9fad2ae0e03ec1a30c"
-            }
-        }
+        "category": "Knowledge"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=330",
@@ -2053,14 +1563,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=355",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11444-j9jqx6a8-v1/imageContent-11444-j9jqx6a8-m1.png",
         "name": "Gemini TV HD",
-        "category": "Telugu",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_553/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "9c14faab1b57892181a72c9db9fe6236",
-                "keyId": "21e65f81502f58309f2126bc0e4485cf"
-            }
-        }
+        "category": "Telugu"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=356",
@@ -2078,14 +1581,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=359",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11418-j9jqpvxs-v1/imageContent-11418-j9jqpvxs-m1.png",
         "name": "ETV HD",
-        "category": "Telugu",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_537/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "b14b4cfe4c38dbaf2b2691d872281a9f",
-                "keyId": "f580caf83dc05eaeb6116f7ef43af5c8"
-            }
-        }
+        "category": "Telugu"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=361",
@@ -2115,14 +1611,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=367",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/FOXHD_Thumbnail-v2/FOXHD_Thumbnail.png",
         "name": "Star Life HD",
-        "category": "Lifestyle",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_544/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "37416fae83d3413b80f945e82c651525",
-                "keyId": "83c8a4256dc15f76be513994cfedaf69"
-            }
-        }
+        "category": "Lifestyle"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=368",
@@ -2188,14 +1677,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=380",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11536-j9jty5w8-v1/imageContent-11536-j9jty5w8-m1.png",
         "name": "KTV HD",
-        "category": "Tamil",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_600/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "6bb69180c85fbbb8d75cedc378f2cd7a",
-                "keyId": "200994092a6657ca888f89ba3170012d"
-            }
-        }
+        "category": "Tamil"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=381",
@@ -2219,14 +1701,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=387",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18348-jcqpx9ns-v1/imageContent-18348-jcqpx9ns-m1.PNG",
         "name": "Star Maa Movies HD",
-        "category": "Telugu",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_611/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "3b023d1014d667f9c5f7091e105a3c18",
-                "keyId": "3535ff17566e54ee978a571f7d117174"
-            }
-        }
+        "category": "Telugu"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=388",
@@ -2262,14 +1737,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=395",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11577-j9jv8mqg-v1/imageContent-11577-j9jv8mqg-m1.png",
         "name": "Mazhavil Manorama HD",
-        "category": "Malayalam",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_621/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "0e6b71ae5c0dc7ff2ccd23e5f7765c68",
-                "keyId": "3eeb851a3ad75bd0b45f957cb7e9e6dc"
-            }
-        }
+        "category": "Malayalam"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=397",
@@ -2299,14 +1767,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=405",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11607-j9jznhvc-v1/imageContent-11607-j9jznhvc-m1.png",
         "name": "MTV Beats HD",
-        "category": "Music",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_637/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "ea398b76733281de8a7b1a62f35168dc",
-                "keyId": "896860b15e185b179b541e7753ebc4e5"
-            }
-        }
+        "category": "Music"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=406",
@@ -2330,14 +1791,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=413",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png",
         "name": "Nat Geo Wild HD",
-        "category": "Knowledge",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_655/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "6cdb53f864887be2bb949bf7086d7a04",
-                "keyId": "d2d914176f5356ab894e657e3b1873e7"
-            }
-        }
+        "category": "Knowledge"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=414",
@@ -2427,14 +1881,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=433",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11658-j9k5lvgo-v1/imageContent-11658-j9k5lvgo-m1.png",
         "name": "Nick HD+",
-        "category": "Kids",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_663/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "a57a19f25df45b7b834215d887c4f269",
-                "keyId": "230e5bee4fe35aed9a2ef711a232522a"
-            }
-        }
+        "category": "Kids"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=434",
@@ -2452,14 +1899,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=438",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/RIS_Thumbnail-v3/RIS_Thumbnail.png",
         "name": "Colors Rishtey",
-        "category": "Entertainment",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_694/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "2c8f9cde5b8b387bc6cec4e6f124761a",
-                "keyId": "05e337f20ed354618899e3c849803a36"
-            }
-        }
+        "category": "Entertainment"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=439",
@@ -2543,40 +1983,19 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=462",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png",
         "name": "SONY SPORTS TEN 2 HD",
-        "category": "Sports",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_726/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "904f710c35939d9a968ae123809c2cc7",
-                "keyId": "380f01aaa8b05619bb74ad8f118cf416"
-            }
-        }
+        "category": "Sports"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=463",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png",
         "name": "Star Sports Select 2 HD",
-        "category": "Sports",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "56e2d7ef741d273234e330eebb73e0fc",
-                "keyId": "99ae5709054557458ccb468523f1557b"
-            }
-        }
+        "category": "Sports"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=464",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png",
         "name": "SONY SPORTS TEN 3 HD",
-        "category": "Sports",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_727/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "9b2bcc8521205752e962dd91f2015d7a",
-                "keyId": "b1965dd924ad5e24967a1ea6a1965d7f"
-            }
-        }
+        "category": "Sports"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=467",
@@ -2588,27 +2007,13 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=468",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STJHD_Thumbnail-v3/STJHD_Thumbnail.png",
         "name": "Star Jalsha HD",
-        "category": "Bengali",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_736/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "1c52fb123ee01e9c534c5c917e054e1c",
-                "keyId": "45d8c657473e5619aba2a6e58f865a52"
-            }
-        }
+        "category": "Bengali"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=469",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11807-j9kyzle8-v1/imageContent-11807-j9kyzle8-m1.png",
         "name": "Star Pravah HD",
-        "category": "Marathi",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_744/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "72fd6823e09cb90642b0c169099eab00",
-                "keyId": "9a81080a5e205a3aa032e13361cc1d10"
-            }
-        }
+        "category": "Marathi"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=474",
@@ -2632,14 +2037,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=480",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11858-j9l1v6k8-v3/imageContent-11858-j9l1v6k8-m4.png",
         "name": "TLC HD",
-        "category": "Lifestyle",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_780/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "f38c9805c594c0dfa08aa34cd5713383",
-                "keyId": "d82e13b877295aec95fc2b7269b5357c"
-            }
-        }
+        "category": "Lifestyle"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=484",
@@ -2657,14 +2055,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=486",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43899-jyofyk1s-v4/imageContent-43899-jyofyk1s-m4.png",
         "name": "Tata Play Bollywood Premiere",
-        "category": "Movies",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_792/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "f0a54d993c686a3e0a967897477e835c",
-                "keyId": "bdc20e08c1125c82a29bd88a0556fab6"
-            }
-        }
+        "category": "Movies"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=489",
@@ -2676,14 +2067,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=490",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11882-j9l3qcrs-v1/imageContent-11882-j9l3qcrs-m1.png",
         "name": "SVBC 2",
-        "category": "Telugu",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_771/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "450c00a34dab7972de4f61519b07ddc9",
-                "keyId": "0138b0af673d547d96094907c2ba52c8"
-            }
-        }
+        "category": "Telugu"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=492",
@@ -2725,14 +2109,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=503",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png",
         "name": "Zee Cinema HD",
-        "category": "Movies",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_827/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "84ad06c581ab02b8a2d3df66f3f16a51",
-                "keyId": "94dfcd89997f53d69e7f661b9862f6ba"
-            }
-        }
+        "category": "Movies"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=507",
@@ -2774,14 +2151,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=516",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png",
         "name": "STAR Maa HD",
-        "category": "Telugu",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "ac9d53663956099d6109e73e46d09014",
-                "keyId": "4fea383bd8e254ad89f666d3ffad142b"
-            }
-        }
+        "category": "Telugu"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=517",
@@ -2799,14 +2169,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=521",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png",
         "name": "Sun TV HD",
-        "category": "Tamil",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "f0d183e70ac3968e5bd6f73159d09ec5",
-                "keyId": "9046a894bb7f501d8846e9da0ecc5321"
-            }
-        }
+        "category": "Tamil"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=522",
@@ -2818,14 +2181,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=523",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11969-j9luigc0-v2/imageContent-11969-j9luigc0-m2.png",
         "name": "Zee Anmol",
-        "category": "Entertainment",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_826/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "0435320e4607640ee0ddf9f2a3ef0cf0",
-                "keyId": "f30c7bd3235b5eb98aed10f43ba874c3"
-            }
-        }
+        "category": "Entertainment"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=524",
@@ -2855,14 +2211,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=537",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11514-j9jtp5tk-v1/imageContent-11514-j9jtp5tk-m2.png",
         "name": "Jalsha Movies HD",
-        "category": "Bengali",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_583/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "fcf34aae1fff2fffb623c58d8b5541f2",
-                "keyId": "21186943ed6650b1a2d6a802743cadd5"
-            }
-        }
+        "category": "Bengali"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=539",
@@ -2886,14 +2235,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=543",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12053-j9o3yhko-v1/imageContent-12053-j9o3yhko-m1.png",
         "name": "Colors",
-        "category": "Entertainment",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_101/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "edb9698339d6651948fd1968fb2ab89f",
-                "keyId": "4f162f1f556b59dda9af6d87af926236"
-            }
-        }
+        "category": "Entertainment"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=544",
@@ -2923,14 +2265,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=551",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12060-j9o91vfc-v2/imageContent-12060-j9o91vfc-m2.png",
         "name": "STAR Utsav",
-        "category": "Entertainment",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_122/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "85e9edc69124ba1a317c71b757e5fec2",
-                "keyId": "d225a57db467539e8397edd6d4712d56"
-            }
-        }
+        "category": "Entertainment"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=552",
@@ -2942,14 +2277,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=553",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12065-j9o9phqg-v1/imageContent-12065-j9o9phqg-m1.png",
         "name": "We TV",
-        "category": "Malayalam",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_322/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "2a870b74333d34b57cd774a44914c3af",
-                "keyId": "caac444157b45f248932161c25d0eaaa"
-            }
-        }
+        "category": "Malayalam"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=554",
@@ -2967,14 +2295,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=556",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12074-j9oat6qw-v6/imageContent-12074-j9oat6qw-m6.png",
         "name": "SET",
-        "category": "Entertainment",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_125/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "4cd09f28e58a7fe04a1950381c385c68",
-                "keyId": "35b1c559b7575940a33200f1cd627f44"
-            }
-        }
+        "category": "Entertainment"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=557",
@@ -2986,40 +2307,19 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=558",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12080-j9obub60-v6/imageContent-12080-j9obub60-m6.png",
         "name": "SONY PIX",
-        "category": "Movies",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_200/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "ef8dd5a6dfbaa11e663a1e734a5e03b5",
-                "keyId": "29ef9a2e17e657f4a4ba0cfc6ad359e0"
-            }
-        }
+        "category": "Movies"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=559",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png",
         "name": "SONY SAB",
-        "category": "Entertainment",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_126/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "f8740b7324f779f6bb919a1aaf47a7f2",
-                "keyId": "d2fdd051136556f4815bba3801689c22"
-            }
-        }
+        "category": "Entertainment"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=562",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12095-j9ooixfs-v1/imageContent-12095-j9ooixfs-m1.png",
         "name": "Movies Now HD",
-        "category": "Movies",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_563/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "e2c3a5a9f39b925644023dd50b434646",
-                "keyId": "e71217f66a135ac687f2ba980bdee129"
-            }
-        }
+        "category": "Movies"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=566",
@@ -3055,14 +2355,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=578",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12129-j9p7kluo-v2/imageContent-12129-j9p7kluo-m3.png",
         "name": "AndTV",
-        "category": "Entertainment",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_196/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "00acd3d4d60bf403a83d921ce5070349",
-                "keyId": "08c05402a5ce582389686f6295b72f55"
-            }
-        }
+        "category": "Entertainment"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=580",
@@ -3092,14 +2385,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=587",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png",
         "name": "Super Hungama",
-        "category": "Kids",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_781/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "22d040dd2add7fe3dab7f7c1f90efaa7",
-                "keyId": "783c19b54791559fa6394b0f0917499f"
-            }
-        }
+        "category": "Kids"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=590",
@@ -3135,27 +2421,13 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=599",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12216-j9qm5hjs-v2/imageContent-12216-j9qm5hjs-m2.png",
         "name": "MNX HD",
-        "category": "Movies",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_636/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "a9d41f2135b26a3724ad00bc7cbcd382",
-                "keyId": "cf6ef4fa7bbd5fb4b724b3865cda9f81"
-            }
-        }
+        "category": "Movies"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=605",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png",
         "name": "National Geographic HD",
-        "category": "Knowledge",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "5886504693fef5abf8a759e3c08c4f96",
-                "keyId": "651f6d50f6a85efea16b425c28f45e29"
-            }
-        }
+        "category": "Knowledge"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=608",
@@ -3185,27 +2457,13 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=616",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12267-j9qx2si0-v3/imageContent-12267-j9qx2si0-m3.png",
         "name": "History TV18 HD",
-        "category": "Knowledge",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_565/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "0dddf53f768e7ec104686dfeb4377212",
-                "keyId": "3fb1a36a395d5efcbf2ba2702f11de15"
-            }
-        }
+        "category": "Knowledge"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=618",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12282-ja02jlp4-v2/imageContent-12282-ja02jlp4-m2.png",
         "name": "Tata Play Beauty",
-        "category": "Lifestyle",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_853/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "9b214c379679c9541083aa2695438a61",
-                "keyId": "37d4ba4752c853daafac048da3569eed"
-            }
-        }
+        "category": "Lifestyle"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=622",
@@ -3217,14 +2475,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=624",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/PITAA_Thumbnail-v2/PITAA_Thumbnail.png",
         "name": "Pitaara Movies",
-        "category": "Punjabi",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_855/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "e362f6e69d48250b8f74a7f3a987808b",
-                "keyId": "43c84d5df70f59818b23332d64abb4a5"
-            }
-        }
+        "category": "Punjabi"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=626",
@@ -3236,14 +2487,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=627",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-13097-jbdzn9og-v2/imageContent-13097-jbdzn9og-m2.png",
         "name": "Tata Play Fun Learn Junior",
-        "category": "Kids",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_861/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "0aaec50c7d937a0a69f667412a913d6e",
-                "keyId": "ad8ec0c0e0cd5a39b16bb1c97c5b3841"
-            }
-        }
+        "category": "Kids"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=629",
@@ -3273,27 +2517,13 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=635",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21304-je859a3c-v1/imageContent-21304-je859a3c-m1.png",
         "name": "Zee Telugu HD",
-        "category": "Telugu",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_873/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "18add32ddf8456ab3b5bc8ea90cbd70e",
-                "keyId": "945debdb12955377b97d160c1d99e8ba"
-            }
-        }
+        "category": "Telugu"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=636",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21307-je859sm0-v1/imageContent-21307-je859sm0-m2.png",
         "name": "Zee Cinemalu HD",
-        "category": "Telugu",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_871/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "f76108153ff1dd9eef93d43740c00da8",
-                "keyId": "593d72654a0a5d4c8c205be3e78b3390"
-            }
-        }
+        "category": "Telugu"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=637",
@@ -3305,14 +2535,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=641",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23495-jf92iycg-v3/imageContent-23495-jf92iycg-m4.png",
         "name": "Tata Play Cooking",
-        "category": "Lifestyle",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_876/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "715276ba778cf3c6953a4f2e87884d95",
-                "keyId": "4fd382c20b935ee4b91ac70d8570dac4"
-            }
-        }
+        "category": "Lifestyle"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=643",
@@ -3408,14 +2631,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=674",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33814-jo5jba9s-v3/imageContent-33814-jo5jba9s-m3.PNG",
         "name": "Colors Tamil HD",
-        "category": "Tamil",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_916/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "39157cb0361d008112583df2fd779b5a",
-                "keyId": "68e1ccce6327527380a6fb221c38470e"
-            }
-        }
+        "category": "Tamil"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=675",
@@ -3433,14 +2649,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=681",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png",
         "name": "Cartoon Network HD+",
-        "category": "Kids",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_925/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "fd0a12da03db5794774b31835f6ed195",
-                "keyId": "80584df881bd5c73b339f41036808a14"
-            }
-        }
+        "category": "Kids"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=684",
@@ -3458,14 +2667,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=689",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34652-jpmey8gw-v1/imageContent-34652-jpmey8gw-m1.png",
         "name": "Aaj Tak HD",
-        "category": "News",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_930/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "b31887e26c6260861ffbd85570131730",
-                "keyId": "4df10535611054318aeadd00fe14a655"
-            }
-        }
+        "category": "News"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=691",
@@ -3483,27 +2685,13 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=693",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35309-jqxwmcq0-v4/imageContent-35309-jqxwmcq0-m4.png",
         "name": "Eurosport",
-        "category": "Sports",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_935/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "f8f68fb18d71c9b141320a46b8b78e87",
-                "keyId": "60a9f037bac25f2f96ed4e1b0adb3c24"
-            }
-        }
+        "category": "Sports"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=694",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35312-jqy146c8-v3/imageContent-35312-jqy146c8-m8.png",
         "name": "Zee Keralam HD",
-        "category": "Malayalam",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_933/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "9be81c7b41b88400b53ffa83f0f7349a",
-                "keyId": "90fecdc2fc5355ad8dd145106ccc6003"
-            }
-        }
+        "category": "Malayalam"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=696",
@@ -3533,14 +2721,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=706",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67672-kwly0m4w-v1/imageContent-67672-kwly0m4w-m1.png",
         "name": "TV9 Bharatvarsh",
-        "category": "Hindi",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_945/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "7a72f5bd3134a003e4c54d0bfa1b8826",
-                "keyId": "3861ba31f78359a99180624aa99fe9db"
-            }
-        }
+        "category": "Hindi"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=708",
@@ -3570,14 +2751,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=729",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43109-jxzlyrjc-v1/imageContent-43109-jxzlyrjc-m1.png",
         "name": "B4U Bhojpuri",
-        "category": "Hindi",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_959/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "e85b3b97118c515cd2f14cb2a3f0c658",
-                "keyId": "19b2ebcf2eb75542a37bc172bccf06a7"
-            }
-        }
+        "category": "Hindi"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=730",
@@ -3607,14 +2781,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=741",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44333-jz3hpme0-v4/imageContent-44333-jz3hpme0-m8.png",
         "name": "Tata Play Classic Cinema",
-        "category": "Movies",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1630/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "6789ca851096c173de1f9e2ee5a5f471",
-                "keyId": "ac626833bf4a51a2b6d33d41a15c714f"
-            }
-        }
+        "category": "Movies"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=772",
@@ -3626,14 +2793,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=773",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47242-k1vmve74-v1/imageContent-47242-k1vmve74-m2.png",
         "name": "PTC Simran",
-        "category": "Punjabi",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_968/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "111fdde25fe494c9a2a0955bc9543d7f",
-                "keyId": "ef46380a1bcc59c5956ea6dad561ed65"
-            }
-        }
+        "category": "Punjabi"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=774",
@@ -3717,27 +2877,13 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=796",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49009-k5g6nid4-v1/imageContent-49009-k5g6nid4-m1.png",
         "name": "Zee Punjabi",
-        "category": "Punjabi",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_988/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "f423b74f3940dd77bc23724ff4f20a3d",
-                "keyId": "2a16a13b445c5613ae775a76f2978a75"
-            }
-        }
+        "category": "Punjabi"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=797",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49016-k5lx1za0-v2/imageContent-49016-k5lx1za0-m2.png",
         "name": "Zee Thirai",
-        "category": "Tamil",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_989/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "6cc00aeb09f10e53bc5c1b3b521ca72a",
-                "keyId": "50fbc36b5e365162a1f915cee5cf2a53"
-            }
-        }
+        "category": "Tamil"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=799",
@@ -3791,27 +2937,13 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=812",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52842-k980h8vc-v1/imageContent-52842-k980h8vc-m2.png",
         "name": "Eurosport HD",
-        "category": "Sports",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1109/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "7db4f4f46f48b47aa93f8c46ffad7c03",
-                "keyId": "45e4c85771415b9cadfc3e09fd34637f"
-            }
-        }
+        "category": "Sports"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=814",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52853-k982u9ts-v1/imageContent-52853-k982u9ts-m1.png",
         "name": "Zee Biskope",
-        "category": "Hindi",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1111/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "e6955d9bb6c7a5edf08818cef6ec73cc",
-                "keyId": "1d7e21dacbe15a43a1f3c9b6f9268024"
-            }
-        }
+        "category": "Hindi"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=816",
@@ -3835,14 +2967,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=823",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-53943-kblsqraw-v3/imageContent-53943-kblsqraw-m4.png",
         "name": "Goldmines",
-        "category": "Marathi",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1118/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "6784cf289d4a59306640a40f3502e33f",
-                "keyId": "5a964f93d99956e1804dbb0fd4d18b7a"
-            }
-        }
+        "category": "Marathi"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=824",
@@ -3938,14 +3063,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=867",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57985-khvdchrs-v2/imageContent-57985-khvdchrs-m2.png",
         "name": "Gubbare",
-        "category": "Kannada",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1143/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "4e323ff19a1668a5b594136e16cb57f1",
-                "keyId": "cad6b85d146658678a5fb1c78b6cf713"
-            }
-        }
+        "category": "Kannada"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=870",
@@ -4041,14 +3159,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=905",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62236-kny7yzaw-v1/imageContent-62236-kny7yzaw-m1.png",
         "name": "ETV Bal Bharat",
-        "category": "Kids",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1311/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "d6d27f5d80e7ce31be14b7876d034256",
-                "keyId": "ec51077b365157368152a37ab04abb28"
-            }
-        }
+        "category": "Kids"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=907",
@@ -4102,14 +3213,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=929",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64069-kra2o75k-v2/imageContent-64069-kra2o75k-m2.png",
         "name": "Tata Play JEE Prep",
-        "category": "Knowledge",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1324/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "4a49d29e7f126b2d2702255e6a25fa6b",
-                "keyId": "a1f7536995a95e589f3a9ae565384d15"
-            }
-        }
+        "category": "Knowledge"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=930",
@@ -4127,14 +3231,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=932",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64606-krslbshs-v1/imageContent-64606-krslbshs-m2.png",
         "name": "Times Now Navbharat HD",
-        "category": "News",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1327/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "c881b13869ff28be1d41ea19ca0835e7",
-                "keyId": "2108f3f41f09540d9a0b9689ae5ca31b"
-            }
-        }
+        "category": "News"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=933",
@@ -4236,14 +3333,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=965",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67799-kx7m7rhc-v1/imageContent-67799-kx7m7rhc-m2.png",
         "name": "Manoranjan Grand",
-        "category": "Movies",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1793/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "8eb1433209c6755cbd57f3dfcaa47b70",
-                "keyId": "069ce963fdad57419d3937c367c306d8"
-            }
-        }
+        "category": "Movies"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=966",
@@ -4315,27 +3405,13 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=980",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-70046-l21cybww-v2/imageContent-70046-l21cybww-m5.png",
         "name": "Sports 18 - 1",
-        "category": "Sports",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1809/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "d82563f7d38641fbfc4363edc1e778a1",
-                "keyId": "18d7d562ff3b5033b8facb15bac2e259"
-            }
-        }
+        "category": "Sports"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=986",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-70821-l3edt8uw-v1/imageContent-70821-l3edt8uw-m3.png",
         "name": "Tata Play Zindagi",
-        "category": "Entertainment",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1813/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "e364489c3e1111a59524519cdcad243a",
-                "keyId": "1156eefdc0f452f7be486b749077fe38"
-            }
-        }
+        "category": "Entertainment"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=988",
@@ -4377,14 +3453,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=996",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSTEL_Thumbnail-v4/TONSTEL_Thumbnail.png",
         "name": "Tata Play Toons+",
-        "category": "Kids",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1822/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "45667b40650d16e70f5688c5b17c8334",
-                "keyId": "8099517eb7f156a5829cc1d81eb59cfa"
-            }
-        }
+        "category": "Kids"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=997",
@@ -4498,14 +3567,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=1033",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png",
         "name": "Sports 18 - 1 HD",
-        "category": "Sports",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1852/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "f18fe5cb45ec4c75bee13094db85a3e2",
-                "keyId": "cf0d8d7fb1c15830a2f9f0f25a1170c8"
-            }
-        }
+        "category": "Sports"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=1040",
@@ -4787,14 +3849,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=1183",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png",
         "name": "AndXplor HD",
-        "category": "Movies",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1963/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "651ef02cffc652d1bef893f610c012d2",
-                "keyId": "cead03455ee755c6b1fc6e4187d6608d"
-            }
-        }
+        "category": "Movies"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=1194",
@@ -5184,14 +4239,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=1363",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPANML_Thumbnail-v2/TPANML_Thumbnail.png",
         "name": "Tata Play Anime Local",
-        "category": "Kids",
-        "file": "https://tgaadi-web.tech/TP/tg-aadi.php/https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2115/output/master.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "f0963ea89b4d5f4620dccf305a88bf51",
-                "keyId": "3bcb3389b25d50e1a382410bb638ba2b"
-            }
-        }
+        "category": "Kids"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=1371",
