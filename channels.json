@@ -1114,14 +1114,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=115",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-355-j5jndjn4-v1/imageContent-355-j5jndjn4-m2.png",
         "name": "Colors Oriya",
-        "category": "Odia",
-        "file": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_215/output/dtvhindi.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "",
-                "keyId": ""
-            }
-        }
+        "category": "Odia"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=117",
@@ -4610,14 +4603,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=514",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZEEBH_Thumbnail-v2/ZEEBH_Thumbnail.png",
         "name": "Zee Bharat",
-        "category": "News",
-        "file": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_840/output/dtvhindi.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "",
-                "keyId": ""
-            }
-        }
+        "category": "News"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=515",
@@ -7891,14 +7877,7 @@
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=1077",
         "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/VISNEWS_Thumbnail-v2/VISNEWS_Thumbnail.png",
         "name": "Vistara News",
-        "category": "News",
-        "file": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1891/output/dtvhindi.mpd",
-        "drm": {
-            "clearkey": {
-                "key": "",
-                "keyId": ""
-            }
-        }
+        "category": "News"
     },
     {
         "url": "https://tgaadi-web.tech/Tata-Play/play.php?id=1078",
